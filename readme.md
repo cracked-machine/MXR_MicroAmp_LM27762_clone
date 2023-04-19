@@ -16,4 +16,4 @@ The circuit will accept a +9V power input, so this board can be used as a fully 
 
 A reverse audio taper 500K pot should be attached to the `gain` header. If reverse audio cannot be obtained then biasing the potentiometer is possible. See schematic for details.
 
-Wiring for the bypass switch should be done off-board using a 3PDT switch. 
+Wiring for the bypass switch should be done [off-board using a 3PDT switch](https://madbeanpedals.com/tutorials/downloads/MBP_FootswitchWiring.pdf). 
